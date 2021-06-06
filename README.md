@@ -1,7 +1,7 @@
 # Hey there, I'm [Eshwara](https://eshwara.ca/) 👋!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshwar-chockalingam-b07bb11b2/)](https://www.linkedin.com/in/eshwar-chockalingam-b07bb11b2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshwara-chock-b07bb11b2/)](https://www.linkedin.com/in/eshwara-chock-b07bb11b2/) 
 [![Email](https://img.shields.io/badge/eshchock1@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=white&link=mailto:eshchock1@gmail.com)](mailto:eshchock1@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/@eshwar_chockalingam-f5307d?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/eshwar_chockalingam/)
+[![Instagram Badge](https://img.shields.io/badge/@eshwara_chock-f5307d?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/eshwara_chock/)
 
 ### A 17 year old developer from Ottawa, Canada.
 
